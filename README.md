@@ -1,3 +1,16 @@
+# Lab1Web
+###### Nama : Fara Deviana
+###### NIM : 312010407
+###### Kelas : TI.A.2
+
+## TugasPertamaWebProgramming
+
+![](images/3.jpg)
+**Gambar Web Browser Chrome**
+
+
+![](images/2menambah%20atribut.png)
+
 Instruksi Praktikum
 1. Persiapkan text editor misalnya VSCode.
 2. Buat file baru dengan nama lab2_css_dasar.html
@@ -10,59 +23,60 @@ Langkah-langkah Praktikum
 Buatlah dokumen HTML seperti berikut
 
 
-1%20MembuatHTMLdoc.png
+![](images/1%20MembuatHTMLdoc.png)
 
 
 
 Selanjutnya buka pada brwoser untuk melihat hasilnya.
 
-1%20first.jpg
+![](images/1%20first.jpg)
 
 2. Mendeklarasikan CSS Internal
 Kemudian tambahkan deklarasi CSS internal seperti berikut pada bagian head dokumen.
 
 
-2%20%20DeclareCSSinternal.png
+![](images/2%20%20DeclareCSSinternal.png)
 
 Selanjutnya simpan perubahan yang ada, dan lakukan refresh pada browser untuk melihat
 hasilnya.
 
 Modul Praktikum Pemrograman Web
 
-2%20second.jpg
+![](images/2%20second.jpg)
 
 
 3. Menambahkan Inline CSS
 Kemudian tambahkan deklarasi inline CSS pada tag <p> seperti berikut.
 
-3%20MenambahPInlinecss.png
+![](images/3%20MenambahPInlinecss.png)
 
 Simpan kembali dan refresh kembali browser untuk melihat perubahannya.
 
-3%20third.jpg
+![](images/3%20third.jpg)
 
 
 4. Membuat CSS Eksternal
 Buatlah file baru dengan nama style_eksternal.css kemudian buatlah deklarasi CSS seperti berikut.
 
-4%20MenambahCSSExternal.png
+![](images/4%20MenambahCSSExternal.png)
 
 Kemudian tambahkan tag <link> untuk merujuk file css yang sudah dibuat pada bagian <head>
 
-5%20MenambahLink.png
+![](images/5%20MenambahLink.png)
 
 Selanjutnya refresh kembali browser untuk melihat perubahannya.
-4%20four.jpg
+  
+![](images/4%20four.jpg)
 
 
 5. Menambahkan CSS Selector
 Selanjutnya menambahkan CSS Selector menggunakan ID dan Class Selector. Pada file
 style_eksternal.css, tambahkan kode berikut.
-6%20MenambahCSSSelector.png
+![](images/6%20MenambahCSSSelector.png)
 
 Kemudian simpan kembali dan refresh browser untuk melihat perubahannya.
 
-5%20five.jpg
+![](images/5%20five.jpg)
 
 
 
@@ -81,7 +95,7 @@ Berikan penjelasan dan contohnya! ( <p id="paragraf-1" class="text-paragraf">
 Jawaban
 
 1.Pengantian pada font-size, font-color, font family, size dan lain lain terdapat pada gambar dibawah ini.
-soal%201.png
+![](images/soal%201.png)
 2.ID Selector
 dideklarasikan dengan menambahkan tanda # sebelum nama id yang akan digunakan.
 Kemudian pada tag HTML ditambahkan atribut id dengan value nama id tanpa menggunakan #.
@@ -96,7 +110,7 @@ Contoh : h1, nav, title, paragraph.
 
 3.deklarasi utama yang akan ditampilkan ialah : inline, internal, dan eksternal.
 dan untuk internal dan eksternal yang akan ditampilkan itu tergantung pada dimana yang terakhir diletakan pada html, jika penggunaan internal di atas eksternal maka link eksternal yang akan ditampilkan karena html akan memproses internal lalu eksternal yang mengakibatkan yang paling akhir yang akan di tampilkan/proses.
-soal%203.png
+![](images/soal%203.png)
 
 4.“id” bersifat unik dalam satu halaman dan hanya dapat diterapkan ke paling banyak satu elemen, sedangkan pemilih “kelas” dapat diterapkan ke beberapa elemen.
 penggunaan id lebih di utamakan daripada class, karena id bersifat unik.
