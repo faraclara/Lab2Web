@@ -5,11 +5,7 @@
 
 ## TugasPertamaWebProgramming
 
-![](images/3.jpg)
-**Gambar Web Browser Chrome**
 
-
-![](images/2menambah%20atribut.png)
 
 Instruksi Praktikum
 1. Persiapkan text editor misalnya VSCode.
@@ -52,7 +48,7 @@ Kemudian tambahkan deklarasi inline CSS pada tag <p> seperti berikut.
 
 Simpan kembali dan refresh kembali browser untuk melihat perubahannya.
 
-![](images/3%20third.jpg)
+![](images/3%20thirdnew.jpg)
 
 
 4. Membuat CSS Eksternal
@@ -66,7 +62,7 @@ Kemudian tambahkan tag <link> untuk merujuk file css yang sudah dibuat pada bagi
 
 Selanjutnya refresh kembali browser untuk melihat perubahannya.
   
-![](images/4%20four.jpg)
+![](images/4%20fournew.jpg)
 
 
 5. Menambahkan CSS Selector
@@ -76,7 +72,7 @@ style_eksternal.css, tambahkan kode berikut.
 
 Kemudian simpan kembali dan refresh browser untuk melihat perubahannya.
 
-![](images/5%20five.jpg)
+![](images/5%20fiveneww.jpg)
 
 
 
