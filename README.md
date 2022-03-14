@@ -92,7 +92,7 @@ Jawaban
 
 1.Pengantian pada font-size, font-color, font family, size dan lain lain terdapat pada gambar dibawah ini.
 ![](images/soal%201.png)
-2.###### ID Selector
+2. ###### ID Selector
 dideklarasikan dengan menambahkan tanda # sebelum nama id yang akan digunakan.
 Kemudian pada tag HTML ditambahkan atribut id dengan value nama id tanpa menggunakan #.
 Satu elemen HTML hanya dapat diberikan satu id.
