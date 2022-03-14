@@ -92,7 +92,7 @@ Jawaban
 
 1.Pengantian pada font-size, font-color, font family, size dan lain lain terdapat pada gambar dibawah ini.
 ![](images/soal%201.png)
-2.ID Selector
+2.###### ID Selector
 dideklarasikan dengan menambahkan tanda # sebelum nama id yang akan digunakan.
 Kemudian pada tag HTML ditambahkan atribut id dengan value nama id tanpa menggunakan #.
 Satu elemen HTML hanya dapat diberikan satu id.
@@ -100,12 +100,14 @@ Penggunaan #intro dengan menggunakan id
 contoh pada id HTML id="intro"
 dan pemakaian pada css #intro yang terkadang mempunyai inherent/anak pada css. 
 
-Elemen Selector
+###### Elemen Selector
 dideklarasikan berdasarkan tag HTML.
 Contoh : h1, nav, title, paragraph.
 
 3.deklarasi utama yang akan ditampilkan ialah : inline, internal, dan eksternal.
 dan untuk internal dan eksternal yang akan ditampilkan itu tergantung pada dimana yang terakhir diletakan pada html, jika penggunaan internal di atas eksternal maka link eksternal yang akan ditampilkan karena html akan memproses internal lalu eksternal yang mengakibatkan yang paling akhir yang akan di tampilkan/proses.
+  
+  
 ![](images/soal%203.png)
 
 4.“id” bersifat unik dalam satu halaman dan hanya dapat diterapkan ke paling banyak satu elemen, sedangkan pemilih “kelas” dapat diterapkan ke beberapa elemen.
